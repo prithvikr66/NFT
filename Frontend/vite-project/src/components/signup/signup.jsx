@@ -10,7 +10,7 @@ const Signdisp = ({ closeModal }) => {
             <div className="mb-4">
               <label
                 htmlFor="name"
-                className="mb-1 text-xl block text-sm font-medium text-gray-600"
+                className="mb-1 text-xl block  font-medium text-gray-600"
               >
                 Name
               </label>
@@ -24,7 +24,7 @@ const Signdisp = ({ closeModal }) => {
             <div className="mb-4">
               <label
                 htmlFor="email"
-                className="mb-1 text-xl block text-sm font-medium text-gray-600"
+                className="mb-1 text-xl block  font-medium text-gray-600"
               >
                 Email Address
               </label>
